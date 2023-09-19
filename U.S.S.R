@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>my page/title>
+</head>
+<body>
+ <header>
+ <h1>Mijn Persoonlijke Webpagina</h1>
+ </header>
+ <section>
+ <h2>Over Mij</h2>
+ <p>mijn naam is Callum, ik ben 12 en bijna 13. ik hou van NIET op school zijn, en ik ben erg gefascineerd door verhalen over de mensheid en natuur van de mens. (Lord of the flies, Blood meridian, Of mice and men, 1984, animal farm en the call of chtullu) </p>
+ </section>
+ <section>
+ <h2>Mijn minst gehaatte vakken zijn</h2>
+ <ul>
+ <li>Geschiedenis</li>
+ <li>Aadrijkskunde</li>
+ <li>Engels</li>
+ </ul>
+ </section>
+ <section>
+ <h2>Mijn Hobby's zijn</h2>
+ <ol>
+ <li>Slapen</li>
+ <li>Gamen</li>
+ <li>Muziek luisteren</li>
+ </ol>
+ </section>
+ <footer>
+ <p>Contactgegevens: <a
+href='nee'</a></p>
+ </footer>
+</body>
+</html>
